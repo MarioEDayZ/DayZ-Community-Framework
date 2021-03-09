@@ -1,5 +1,6 @@
 @echo off
 
+
 cd /D "%~dp0"
 
 IF NOT exist "P:\JM\" (
